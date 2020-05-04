@@ -1,0 +1,24 @@
+{
+  "name": "zzequipment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zzequipment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "denoflions",
+  "license": "ISC",
+  "core": "OcarinaofTime",
+  "zzequipment": {
+    "file": "mm_stuff.zobj",
+    "desc": "mm_stuff_display_lists.txt",
+    "matrices": {
+      "ADULT_MATRIX_SWORD_BACK": [],
+      "ADULT_MATRIX_SHIELD_BACK": [],
+      "CHILD_MATRIX_SWORD_BACK": [],
+      "CHILD_MATRIX_SHIELD_BACK": [],
+      "CHILD_MATRIX_ITEM_SHIELD": []
+    }
+  }
+}
